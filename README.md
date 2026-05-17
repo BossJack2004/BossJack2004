@@ -18,6 +18,19 @@ A Smart Customer Relationship Management (CRM) system designed for better custom
 
 ---
 
+## 🧰 SMARTCRM Tech Stack (Resume)
+**Languages**: TypeScript, JavaScript, Python, SQL  
+**Frontend**: React 19, Vite, Tailwind CSS, Framer Motion  
+**Backend**: Supabase (PostgreSQL 15), Supabase Edge Functions (Deno), Node.js APIs  
+**AI / Automation**: Google Gemini 2.5 Flash, OpenRouter (Qwen/Mistral fallback), 40 AI Agents  
+**Auth & Identity**: Supabase Auth, Google OAuth, Didit.me KYC/KYB  
+**Payments**: Stripe, HitPay (QR Ph, Billease)  
+**Messaging / Comms**: Resend (Email), UniSMS (SMS), Telegram Bot API, Google Meet, Zoom API, Daily.co  
+**Analytics / Observability**: Sentry, PostHog, Microsoft Clarity, Better Stack, LogSnag  
+**Hosting / DevOps**: Vercel, Supabase CLI/MCP, Supabase Realtime, Row Level Security (RLS)
+
+---
+
 ## 🏙️ SMARTCRM Strategic AI & Automation
 **Version:** v4.0.4-Stable (Growth Campaigns + Unified Recipient Engine + Web Form Leads)  
 **Engine:** SMARTCRM Strategic Intelligence + Unified Growth Suite Logic
