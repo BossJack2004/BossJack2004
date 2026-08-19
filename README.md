@@ -1,284 +1,328 @@
 <div align="center">
 
-# Jack Daniel Pineda
+# JACK DANIEL PINEDA
 
-### Full-Stack Developer · Software Solutions Builder · Founder, Precodes Software Solutions
+### Full-Stack Developer · AI & Automation Builder
+#### Founder — Precodes Software Solutions
 
-I design and build production-ready web platforms, business systems, mobile applications, e-commerce experiences, payment workflows, internal dashboards, and automation-focused software.
+**I build production-ready software, not just websites.**  
+SaaS platforms · AI-powered systems · payment infrastructure · business automation · mobile apps · e-commerce · real-time dashboards
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-precodes.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://precodes.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-BossJack2004-181717?style=for-the-badge&logo=github)](https://github.com/BossJack2004)
-[![Email](https://img.shields.io/badge/Email-techhubph01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techhubph01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-PRECODES.DEV-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://precodes.dev)
+[![Email](https://img.shields.io/badge/EMAIL-JACK%40PRECODES.DEV-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jack@precodes.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-BOSSJACK2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BossJack2004)
 
 </div>
 
 ---
 
-## About Me
+## `> ABOUT ME`
 
-I am a full-stack developer focused on turning real business requirements into complete digital products. My work spans customer-facing websites, admin systems, commerce platforms, payment tooling, education platforms, mobile companion apps, business automation, analytics, authentication, real-time data, and third-party integrations.
+I am a **Full-Stack Developer** focused on turning real business requirements into complete digital products. I work across frontend engineering, backend architecture, databases, mobile development, AI integrations, automation, payments, third-party APIs, security, SEO, deployment, and production operations.
 
-A large portion of my production work is maintained in private repositories because it contains client implementations, proprietary business logic, or active product development. The project summaries below are based on those repositories while keeping sensitive source code private.
-
----
-
-## Core Stack
-
-**Frontend**  
-React · TypeScript · JavaScript · Vite · Tailwind CSS · shadcn/ui · Responsive UI/UX
-
-**Backend & Data**  
-Supabase · PostgreSQL · Row Level Security · Realtime · Edge Functions · Node.js APIs · REST APIs · SQL
-
-**Mobile**  
-Flutter · Dart · Android · Kotlin
-
-**Cloud & Delivery**  
-Vercel · Supabase · GitHub · Serverless Functions · Cron Jobs · Environment-based deployments
-
-**Integrations & Product Engineering**  
-Authentication · Payments · Webhooks · HMAC signing · Email · SMS · Telegram · Google services · PDF generation · SEO · Analytics · Admin dashboards · Automation
+Most of my commercial and active product source code is kept in **private repositories** because it contains proprietary business logic and client implementations. This profile documents the systems, engineering work, and product capabilities that can be shared publicly.
 
 ---
 
-# Featured Private Projects
+## `> TECHNOLOGY STACK`
 
-## PrePayPH — Merchant Portal & Developer Integration Hub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,php,flutter,dart,kotlin,postgres,supabase,tailwind,vercel,git,github&perline=8" alt="Technology Stack" />
+</p>
 
-A Philippine merchant payment platform with a full web dashboard, developer integration hub, payment-link workflow, transaction ledger, merchant branding, API credentials, sandbox/production environments, webhook inspection, and payment reconciliation tooling.
-
-**What I built / worked on**
-- Merchant dashboard with live KPIs, transaction history, revenue tracking, payment links, and environment switching.
-- Developer-facing API credentials, HMAC-signed webhooks, API logs, sandbox tooling, and code examples for multiple languages.
-- Merchant checkout branding, wallet configuration, QR-based payment flows, order/payment reconciliation, and hosted payment pages.
-- Supabase-backed authentication and data persistence with a React + TypeScript web application.
-
-**Stack:** React · TypeScript · Vite · Supabase · REST APIs · HMAC Webhooks · Vercel
-
-> Private repository: `PrePayPH-WEB`
-
----
-
-## PrePayPH Sync — Android / Flutter Companion App
-
-A background-capable merchant companion application designed to synchronize supported e-wallet payment notifications with the PrePayPH platform.
-
-**Key engineering work**
-- Flutter-based Android application with a legacy Kotlin implementation retained in the project history.
-- Android notification listener integration and transaction parsing workflow.
-- Background processing, duplicate-event prevention, secure merchant linking, and real-time synchronization with the web platform.
-- Companion onboarding, QR/setup-code linking, device configuration, and merchant notification workflows.
-
-**Stack:** Flutter · Dart · Android · Kotlin · Supabase · REST APIs
-
-> Private repository: `PrePayPH-APK`
+| Area | Technologies |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Vite · Tailwind CSS · shadcn/ui |
+| **Backend & Data** | Node.js · REST APIs · Supabase · PostgreSQL · SQL · Edge Functions · Realtime |
+| **AI & Automation** | Gemini · OpenAI workflows · AI agents · intelligent routing · automation engines · semantic workflows |
+| **Mobile** | Flutter · Dart · Android · Kotlin |
+| **Cloud** | Vercel · Supabase · GitHub · Serverless Functions · Cron Jobs |
+| **Integrations** | Payments · Webhooks · HMAC · Email · SMS · Telegram · Google services · Meta · PDF · SEO |
 
 ---
 
-## Taktika Global — Corporate Website & Business Platform
+# `FEATURED BUILDS`
 
-A production corporate platform for Taktika Global combining a marketing website, business-solutions pages, events content, inquiry management, administration, email workflows, SEO architecture, and security hardening.
+## SMARTCRM — AI-Powered Business Operating System
 
-**Highlights**
-- Responsive React/TypeScript frontend with reusable components and admin management features.
-- Supabase-backed forms, authentication, live content, and inquiry management.
-- Business Solutions and Events experiences with consultation scheduling and structured data.
-- Advanced SEO work including sitemap/robots improvements, canonical routing, JSON-LD structured data, FAQs, internal linking, and commercial-page optimization.
-- Resend-powered email notifications and Vercel serverless/cron workflows.
+<div align="center">
+<a href="https://smartcrms.online"><img src="https://img.shields.io/badge/LIVE_SYSTEM-smartcrms.online-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SmartCRM Live" /></a>
+<img src="https://img.shields.io/badge/AI_POWERED-Business_Automation-7C3AED?style=for-the-badge" alt="AI Powered" />
+</div>
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Supabase · Vercel · Resend · SEO / JSON-LD
+A live SaaS CRM designed as an **AI-powered business operating system** — combining CRM, sales, projects, support, communications, client collaboration, analytics, automation, and autonomous AI workflows in one platform.
 
-> Private repositories: `taktika-elevate-web`, `taktika-elevate-web-62691`
+### Key capabilities
+- **Unified Inbox** for Email, SMS, and Telegram communication.
+- Complete **Leads, Deals & Sales Pipeline** management with revenue visibility.
+- **Projects & Tasks**, support tickets, quote builder, revenue dashboard, and client portal.
+- **Automation Hub** with agent execution monitoring and live automation logs.
+- **AI Copilot** integrated directly into business workflows.
+- **AI Weekly Reporter** for automated business summaries and operational insights.
+- **CFO Cashflow Forecaster** for AI-assisted financial forecasting.
+- **Lead Scoring Agent** for intelligent opportunity prioritization.
+- **Sentiment Pulse Monitor** for communication and customer-sentiment analysis.
+- **Autonomous PM Generator** and **Agentic Execution Engine** for workflow automation.
+- **Agentic Router** and **Error Explainer** for intelligent task routing and operational diagnostics.
+- AI-powered client summaries, semantic search, document risk scanning, and KYC-related workflows.
+- Subscription billing and third-party integrations including payment and automation services.
+
+**Engineering:** React · TypeScript · Node.js · PostgreSQL · Supabase · REST APIs · Vercel · AI/Agent Workflows · Webhooks
+
+**Live:** [smartcrms.online](https://smartcrms.online)
+
+---
+
+## PrePayPH — Merchant Payment Infrastructure
+
+<div align="center">
+<a href="https://www.prepayph.com"><img src="https://www.prepayph.com/logo.jpg" width="105" alt="PrePayPH" /></a>
+
+[![Live](https://img.shields.io/badge/LIVE-prepayph.com-0E7C7B?style=flat-square)](https://www.prepayph.com)
+![Webhooks](https://img.shields.io/badge/HMAC-Signed_Webhooks-111827?style=flat-square)
+![API](https://img.shields.io/badge/API-Developer_Hub-2563EB?style=flat-square)
+</div>
+
+A Philippine merchant payment platform with a full dashboard, developer integration hub, payment links, transaction reconciliation, merchant branding, API credentials, sandbox/production environments, and webhook tooling.
+
+### Key capabilities
+- Live merchant KPIs, revenue analytics, transaction ledger, success-rate tracking, and gateway-fee savings.
+- Shareable hosted **payment links** and merchant-branded checkout experiences.
+- Sandbox and production API environments with environment-aware credentials.
+- **HMAC-SHA256 signed webhooks**, API logs, request/response inspection, and webhook payload inspection.
+- Interactive API playground and integration examples across multiple programming languages.
+- Merchant QR/wallet configuration, payment reconciliation, manual override workflows, and audit trails.
+- Supabase authentication, persistent merchant data, and production serverless infrastructure.
+- Developer-facing integration architecture including MCP-related tooling/documentation.
+
+**Engineering:** React · TypeScript · Next.js/Vite · Supabase · REST APIs · HMAC · Vercel · Serverless
+
+> Private source: `PrePayPH-WEB`
+
+---
+
+## PrePayPH Sync — Flutter / Android Payment Companion
+
+A background-capable Android companion app that connects supported e-wallet payment notifications to the PrePayPH merchant platform.
+
+### Key capabilities
+- Flutter production application with a legacy native Kotlin implementation.
+- Android notification-listener integration and multi-pattern payment parsing.
+- Background processing and real-time transaction forwarding.
+- Duplicate-event and duplicate-reference protection.
+- Secure merchant linking through sign-in, QR, upload, and setup-code workflows.
+- Device configuration, onboarding, notification-access setup, and battery-optimization handling.
+- GCash/Maya source classification and package-level notification filtering.
+- Optional Telegram merchant alerts and real-time synchronization with the web platform.
+
+**Engineering:** Flutter · Dart · Android · Kotlin · Supabase · REST APIs · Background Services
+
+> Private source: `PrePayPH-APK`
+
+---
+
+## Taktika Global — Corporate Digital Platform
+
+<div align="center">
+<a href="https://taktikaglobal.com.ph"><img src="https://img.shields.io/badge/PRODUCTION-taktikaglobal.com.ph-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Taktika Global" /></a>
+</div>
+
+A production corporate platform combining strategic marketing pages, business solutions, events, inquiry management, administration, automated email workflows, security controls, and an extensive search-engine architecture.
+
+### Key capabilities
+- Dynamic React/TypeScript corporate experience with reusable component architecture.
+- Supabase-backed contact forms, authentication, administration, and real-time data workflows.
+- Dedicated Business Solutions and Events experiences with consultation scheduling.
+- **Resend email automation** for admin notifications and customer auto-replies.
+- Vercel serverless functions and automated cron-based uptime management.
+- Advanced **technical SEO**: canonical routing, sitemap/robots architecture, JSON-LD, Organization/LocalBusiness/Service/FAQ schemas, internal linking, and search-focused commercial pages.
+- Security hardening including CSRF/XSS protections, sanitization, access controls, and monitoring-oriented features.
+- Live business data exports and integration-oriented workflows.
+
+**Engineering:** React · TypeScript · Vite · Tailwind CSS · Supabase · Vercel · Resend · JSON-LD · SEO
+
+> Private source: `taktika-elevate-web`
+
+---
+
+## TraceAccess — Intelligent Student Engagement Platform
+
+A feature-rich student and organization platform combining social networking, events, secure attendance, gamification, messaging, administration, and AI-assisted experiences.
+
+### Key capabilities
+- Real-time social feed with posts, images, videos, polls, comments, and announcements.
+- Event creation, RSVP management, capacity controls, QR codes, and event history.
+- Advanced attendance verification with **QR scanning + GPS + photo verification**.
+- Attendance photos with timestamp, identity, event details, coordinates, location information, and security hash.
+- Gamification through XP, levels, badges, missions, leaderboards, and downloadable certificates.
+- Real-time direct messaging and organization-aware user profiles.
+- Administrative user, event, organization, content, and attendance management.
+- **Gemini-powered AI** for content enhancement, smart replies, assistance, and natural-language features.
+- Supabase Row Level Security and role-based access architecture.
+
+**Engineering:** React · TypeScript · Vite · Supabase · Realtime · RLS · Gemini AI · Geolocation · QR
+
+> Private source: `TraceAccessAllinOnePlatform`
+
+---
+
+## PRECODES Invoice & Billing — AI-Assisted Business Finance Platform
+
+A full-stack invoicing and business-management platform for freelancers, agencies, and businesses.
+
+### Key capabilities
+- Invoice and client CRUD with line items, tax handling, payment status, and revenue analytics.
+- Professional customizable invoices and **PDF generation**.
+- Admin and user dashboards with authentication, RBAC, and Row Level Security.
+- Real-time synchronization and resilient database/failover architecture.
+- **Google Gemini-powered system assistant** for operational guidance and intelligent insights.
+- Subscription-oriented workflows and business analytics.
+
+**Engineering:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL · Gemini AI · jsPDF
+
+> Private source: `precodes-invoice-and-billing`
+
+---
+
+## Asian Glow Hub AU — Full E-Commerce Platform
+
+A configurable commerce storefront and admin system built for an Australia-based Asian beauty, wellness, and lifestyle business.
+
+### Key capabilities
+- Dynamic products, categories, variants, wishlist, search, cart, checkout, coupons, and accounts.
+- Full admin management for products, orders, customers, payments, support, branding, SEO, and commerce settings.
+- Manual payment accounts with proof uploads, transaction references, and approval/rejection workflows.
+- **Real currency conversion** through external exchange-rate APIs with caching and provider fallback.
+- Customer order tracking, rewards, address book, password recovery, and support tickets.
+- Dynamic shipping, tax, payment, receipt, and order-state workflows driven by admin configuration.
+
+**Engineering:** React · TypeScript · Supabase · Auth · Storage · E-Commerce · Payment Workflows · Currency APIs
+
+> Private source: `AsianGlowHUB-AU`
 
 ---
 
 ## Angkat Trading Corporation — Corporate Commerce & Admin Platform
 
-A professional trading-company website with a dynamic product catalog, distributorship content, partner management, business licenses, categorized merchandise, inquiries, and an authenticated administration system.
+A trading-company digital platform with a dynamic catalog, distributorship content, partners, licenses, inquiries, compliance content, and authenticated administration.
 
-**Highlights**
-- Dynamic product and category management with multiple images and real-time updates.
-- Admin workflows for products, premium products, partners, photo groups, categories, licenses, and compliance content.
-- Supabase authentication and content management.
-- Responsive mobile-first UI and extensive SEO / structured-data optimization.
-- Security-focused input handling, upload controls, session protection, rate limiting, and activity logging.
+### Key capabilities
+- Dynamic products/categories with multiple images and real-time updates.
+- Administrative workflows for products, premium products, partners, galleries, categories, and business licenses.
+- Supabase authentication and database-backed content management.
+- Mobile-first responsive interface and structured-data/SEO optimization.
+- Input sanitization, secure uploads, session controls, rate limiting, and activity logging.
 
-**Stack:** React · TypeScript · Vite · Supabase · Tailwind CSS · Vercel
+**Engineering:** React · TypeScript · Vite · Supabase · Tailwind CSS · Vercel · SEO
 
-> Main private repository: `angkat-connect-web`
-
----
-
-## TraceAccess — Student Engagement & Event Platform
-
-An all-in-one student and organization platform that combines social engagement, event management, attendance verification, gamification, messaging, administration, and AI-assisted features.
-
-**Highlights**
-- Social feed with posts, media, polls, comments, announcements, and real-time updates.
-- Event management with RSVP workflows and QR-based event participation.
-- Attendance system with QR scanning, GPS/location capture, photo verification, timestamps, and duplicate prevention.
-- Gamification with points, levels, badges, missions, leaderboards, and certificates.
-- Real-time messaging, user profiles, organization management, and administrative controls.
-
-**Stack:** React · TypeScript · Vite · Supabase · Realtime · Gemini-powered AI features
-
-> Private repositories: `TraceAccessAllinOnePlatform`, `Trace-Access`
+> Main private source: `angkat-connect-web`
 
 ---
 
-## PRECODES Invoice & Billing System
+## Lhots of Golden Travel & Tours — Travel Technology Platform
 
-A full-stack invoicing platform for freelancers, agencies, and businesses with invoice generation, client management, analytics, admin tools, PDF export, subscription workflows, and resilient data synchronization.
+A travel and tours platform with service discovery, flight-booking experiences, business workspace functionality, deployment tooling, and Meta/Facebook-oriented integrations.
 
-**Highlights**
-- Complete invoice and client CRUD workflows with status tracking, taxes, line items, and revenue analytics.
-- Customizable invoice layouts with professional PDF generation.
-- Supabase authentication, RBAC, Row Level Security, and admin/user dashboards.
-- Dual-database failover architecture and real-time synchronization tooling.
-- Google Gemini-powered system assistant and operational insights.
+### Key capabilities
+- Travel services and dedicated flight-booking flows.
+- Business workspace features and account-oriented experiences.
+- Meta/Facebook dashboard and advertising capability integrations.
+- Google sign-in safety/user-flow components.
+- Production/deployment tooling for the platform.
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL · Gemini · jsPDF
+**Engineering:** React · TypeScript · Travel Booking UX · Meta Integrations · Business Workspace
 
-> Private repository: `precodes-invoice-and-billing`
-
----
-
-## Asian Glow Hub AU — E-Commerce Platform
-
-A configurable e-commerce storefront and admin system for an Australia-based Asian beauty, wellness, and lifestyle store.
-
-**Highlights**
-- Product catalog, categories, variants, wishlist, search, cart, checkout, coupons, and account management.
-- Admin management for products, orders, customers, payment methods, support, branding, SEO, and commerce settings.
-- Manual payment workflows with proof uploads, transaction references, and admin approval/rejection.
-- Dynamic currency conversion using external rate providers with local caching and fallback handling.
-- Customer order tracking, rewards, address management, support tickets, and responsive storefront UX.
-
-**Stack:** React · TypeScript · Supabase · E-Commerce · Payments · Currency APIs
-
-> Private repository: `AsianGlowHUB-AU`
+> Private source: `Lhots-of-Golden-Travel-and-Tours`
 
 ---
 
-## Lhots of Golden Travel & Tours
+# `PRIVATE PROJECT INDEX`
 
-A travel and tours platform containing travel-service experiences, flight-booking flows, business workspace functionality, Meta/Facebook integration work, and deployment tooling.
-
-**Stack / areas:** React · TypeScript · Travel Booking UX · Business Workspace · Meta integrations
-
-> Private repository: `Lhots-of-Golden-Travel-and-Tours`
-
----
-
-# Complete Private Project Portfolio
-
-The following repository index represents my private development portfolio. Some entries are current products, while others are client builds, prototypes, specialized modules, or earlier iterations that contributed to later production systems.
+> Additional private repositories include active products, client builds, prototypes, modules, and earlier iterations of production systems.
 
 ### Payments, Commerce & Business Systems
 
 | Project | Focus |
 |---|---|
-| `PrePayPH-WEB` | Merchant payment portal, developer APIs, payment links, reconciliation and webhooks |
-| `PrePayPH-APK` | Flutter/Android merchant companion application |
-| `AsianGlowHUB-AU` | E-commerce storefront, checkout, orders, payments and admin dashboard |
-| `precodes-invoice-and-billing` | Invoice, client, billing, analytics and PDF management platform |
-| `Rolyo-Laundry-Services` | Laundry-services web application and business workflow project |
+| `PrePayPH-WEB` | Merchant payment infrastructure, APIs, payment links, reconciliation and webhooks |
+| `PrePayPH-APK` | Flutter/Android merchant payment companion |
+| `AsianGlowHUB-AU` | E-commerce, checkout, orders, payments and administration |
+| `precodes-invoice-and-billing` | Invoicing, clients, analytics, PDFs and AI-assisted operations |
+| `Rolyo-Laundry-Services` | Laundry-service business workflow application |
 | `Lhots-of-Golden-Travel-and-Tours` | Travel, tours and flight-booking platform |
-| `precodes` | Private Precodes product/workspace repository |
+| `precodes` | Precodes private product/workspace repository |
 
 ### Corporate & Client Platforms
 
 | Project | Focus |
 |---|---|
-| `taktika-elevate-web` | Production Taktika Global website, admin, SEO and business-solutions platform |
-| `taktika-elevate-web-62691` | Taktika development / implementation variant |
-| `angkat-connect-web` | Production Angkat Trading corporate catalog and admin platform |
-| `angkat-connect-global` | Angkat Trading web platform implementation |
-| `angkat-connect-hub` | Angkat platform / management implementation |
-| `angkat-chat-connect` | Angkat communication-focused application module |
-| `angkat-blue-bridge` | Angkat platform implementation / integration project |
+| `taktika-elevate-web` | Production corporate platform, admin, automation and SEO |
+| `taktika-elevate-web-62691` | Taktika implementation variant |
+| `angkat-connect-web` | Production Angkat Trading catalog and admin platform |
+| `angkat-connect-global` | Angkat platform implementation |
+| `angkat-connect-hub` | Angkat management implementation |
+| `angkat-chat-connect` | Angkat communication module |
+| `angkat-blue-bridge` | Angkat integration project |
 | `angkat-trade-connect` | Angkat trading platform implementation |
 | `angkat_trading_portal` | Angkat Trading portal |
-| `angkat_trading_portal_3339` | Angkat Trading portal development variant |
-| `AngkatTradingCorporation-Bolt` | Angkat Trading website implementation |
+| `angkat_trading_portal_3339` | Angkat portal development variant |
+| `AngkatTradingCorporation-Bolt` | Angkat Trading implementation |
 | `Angkat-Trading-Corporation-2025` | Angkat Trading Corporation platform iteration |
-| `Angkat-Trading-Enterprise` | Angkat enterprise web project |
+| `Angkat-Trading-Enterprise` | Angkat enterprise project |
 
 ### Education, Community & Organization Systems
 
 | Project | Focus |
 |---|---|
-| `TraceAccessAllinOnePlatform` | Student engagement, events, attendance, gamification and admin platform |
-| `Trace-Access` | TraceAccess platform implementation |
+| `TraceAccessAllinOnePlatform` | Events, attendance, social engagement, gamification and AI |
+| `Trace-Access` | TraceAccess implementation |
 | `trace-vibe` | Student/community application concept |
 | `unite-trace` | Student/community platform project |
-| `AccessOrganization` | Organization-focused ACCESS project |
-| `academic-pro-platform` | Academic platform built with React, TypeScript, Vite and Tailwind |
-| `ipaglaban-nation-ph` | Community / public-engagement web platform project |
+| `AccessOrganization` | ACCESS organization project |
+| `academic-pro-platform` | Academic web platform |
+| `ipaglaban-nation-ph` | Community/public-engagement platform |
 | `RantMap-PH` | Map-based Philippine community application |
 
 ### Product Experiments & Specialized Applications
 
 | Project | Focus |
 |---|---|
-| `roboforge-clean-future` | Robotics / technology-focused product concept |
-| `v0-globe-to-map-transform` | Interactive map / visualization experiment |
+| `roboforge-clean-future` | Robotics/technology product concept |
+| `v0-globe-to-map-transform` | Interactive map/visualization experiment |
 | `EsabongCasino` | Private web application prototype |
 
-### BestSMM / Social Media Tooling Portfolio
+---
 
-| Project | Focus |
-|---|---|
-| `bestsmmph.com` | BestSMMPH web platform repository |
-| `bestsmmph` | BestSMMPH application project |
-| `BESTSMMPH-TOOL` | Private BestSMMPH tooling platform |
-| `BestSMMPHTool2024` | 2024 BestSMMPH tooling iteration |
-| `BESTSMMPH-BOOSTING-TOOL` | Private social-media tooling project |
-| `bestsmmphtool` | BestSMMPH tool implementation |
-| `bestsmmphnewtool` | Later BestSMMPH tool iteration |
-| `BestSMM-FB-Creator` | Facebook-oriented BestSMM utility project |
+## `> WHAT I BUILD`
+
+**SaaS & Business Platforms** · **AI-Powered Applications** · **AI Agents & Automation** · **Payment Systems** · **Mobile Apps** · **E-Commerce** · **CRM Systems** · **Admin Dashboards** · **Booking Platforms** · **Real-Time Applications** · **API Integrations** · **Corporate Websites**
 
 ---
 
-## What I Build
+## `> ENGINEERING APPROACH`
 
-- Full-stack business applications
-- SaaS dashboards and internal systems
-- Corporate and client websites
-- E-commerce storefronts and admin panels
-- Payment workflows and webhook integrations
-- Mobile companion applications
-- Authentication and role-based systems
-- Real-time Supabase applications
-- Booking and service platforms
-- CRM, billing, invoicing and analytics tools
-- SEO-focused production websites
-- AI-assisted and automation-driven workflows
+I build systems around the **complete product flow** — not isolated screens. My work typically covers responsive UX, application architecture, authentication, database design, permissions, admin tooling, AI and third-party integrations, security, production deployment, monitoring, performance, SEO, and the final end-user experience.
 
----
-
-## Engineering Approach
-
-I prefer building complete systems instead of isolated pages. That means thinking through the entire product flow: responsive frontend, authentication, database structure, permissions, admin tooling, integrations, production deployment, security, monitoring, performance, and the experience of the actual end user.
-
-My private repositories include both production deployments and iterative prototypes. I keep client and proprietary source private while documenting the product capabilities and technical work that can be shared publicly.
-
----
-
-## Currently Building Through Precodes Software Solutions
-
-**Precodes Software Solutions** focuses on practical custom software for businesses: websites, internal platforms, commerce systems, automation, integrations, and digital products designed around the client's real workflow.
-
-🌐 **Portfolio:** https://precodes.dev  
-📧 **Email:** techhubph01@gmail.com
+My private repositories include both production deployments and iterative product work. Client and proprietary source remains private while the engineering capabilities and product outcomes are documented here.
 
 ---
 
 <div align="center">
 
-### Building practical software from idea to production.
+## PRECODES SOFTWARE SOLUTIONS
 
-**Jack Daniel Pineda**  
-Full-Stack Developer · Precodes Software Solutions
+**Custom software engineered around real business workflows.**
+
+Web Platforms · AI Integration · Business Automation · Mobile Apps · E-Commerce · APIs · Internal Systems
+
+[![Precodes](https://img.shields.io/badge/VISIT-PRECODES.DEV-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://precodes.dev)
+[![Contact](https://img.shields.io/badge/CONTACT-JACK%40PRECODES.DEV-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jack@precodes.dev)
+
+<br />
+
+### Jack Daniel Pineda
+**Full-Stack Developer · AI & Automation Builder**
+
+*Building practical software from idea to production.*
 
 </div>
